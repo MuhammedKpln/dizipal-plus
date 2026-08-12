@@ -3,6 +3,7 @@
 // @namespace    dpn.dizipal-plus
 // @version      1.0.3
 // @updateURL    https://github.com/MuhammedKpln/dizipal-plus/raw/refs/heads/main/dizipal.user.js
+// @downloadURL    https://github.com/MuhammedKpln/dizipal-plus/raw/refs/heads/main/dizipal.user.js
 // @description  Netflix skin, adblock, local Favorilerim + İzlemeye Devam Et (precise resume for Playerjs video, episode-level for iframe) and Nextcloud MovieDB sync for dizipal*.com
 // @author       dpn
 // @match        http*://dizipal*.com/
