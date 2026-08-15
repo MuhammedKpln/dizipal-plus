@@ -6,6 +6,8 @@
 // @author       dizipal-sync
 // @match        http*://dizipal*.com/*
 // @match        http*://*.dizipal*.com/*
+// @updateURL:    https://raw.githubusercontent.com/MuhammedKpln/dizipal-plus/refs/heads/main/dizipal-televisorium.user.js
+// @downloadURL: https://raw.githubusercontent.com/MuhammedKpln/dizipal-plus/refs/heads/main/dizipal-televisorium.user.js
 // @run-at       document-idle
 // @grant        GM_setValue
 // @grant        GM_getValue
