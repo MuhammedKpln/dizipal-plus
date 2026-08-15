@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Televisorium Sync · Dizipal
 // @namespace    televisorium.dizipal
-// @version      2.4.0
+// @version      2.4.1
 // @description  Syncs watch progress, watchlist and ratings from dizipal* directly to your Nextcloud Televisorium (OCS) app. Removes site ads, video preroll and in-player casino overlays. Shows your latest watched episode on the home page. Works on desktop (Tampermonkey/Violentmonkey) and iOS (Userscripts).
 // @author       dizipal-sync
 // @match        http*://dizipal*.com/*
