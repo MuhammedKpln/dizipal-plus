@@ -24,7 +24,7 @@
     'use strict';
 
     var TVS = window.TVS = window.TVS || {};
-    TVS.version = '2.4.0';
+    TVS.version = '2.4.1';
 
     var USE_GM = (typeof GM_getValue === 'function' && typeof GM_setValue === 'function');
     var LS_PREFIX = 'tvs:';
